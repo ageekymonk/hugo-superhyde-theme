@@ -4,7 +4,7 @@ licenselink = "https://github.com/ageekymonk/hugo-superhyde-theme/blob/master/LI
 description = "An elegant open source and mobile first theme"
 tags = ["blog", "company"]
 features = ["blog", "themes", "disqus"]
-min_version = 0.14
+min_version = 0.10
 
 [author]
     name = "ramz"

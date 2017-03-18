@@ -29,7 +29,7 @@ To install SuperHyde as your default theme, first install this repository in the
 
 Second, specify `superhyde` as your default theme in the `config.toml` file. Just add the line
 
-    theme = "superhyde"
+    theme = "hugo-superhyde-theme"
 
 at the top of the file.
 
